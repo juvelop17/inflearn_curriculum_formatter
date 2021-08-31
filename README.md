@@ -1,5 +1,5 @@
 # inflearn_curriculum_formatter
-인프런 커리큘럼을 CSV 파일 형태로 저장한다.
+인프런 강의 목차를 CSV 파일 형태로 저장한다.
 
 ## Example
 
