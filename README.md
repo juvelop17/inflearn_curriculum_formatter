@@ -8,9 +8,10 @@
 ```shell
 python inflearn.py [URL] [option]
 ```
+
 ## Parameter
 - URL : 인프런의 강의 목록을 가져올 주소
-- --one-section : 섹션당 하나의 섹션만 입력
+- --one-section-name : 섹션당 하나의 섹션명을 입력한다.
 
 # Requirements
 - python3
