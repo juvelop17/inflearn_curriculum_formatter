@@ -11,7 +11,7 @@
 
 # Manual
 ```shell
-python inflearn.py URL [option]
+python inflearn.py [option] URL
 ```
 - output file name : curriculum.csv
 
