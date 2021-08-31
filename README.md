@@ -11,8 +11,9 @@
 
 # Manual
 ```shell
-python inflearn.py URL [option]
+python inflearn.py [option] URL
 ```
+- output file name : curriculum.csv
 
 ## Parameter
 - URL : 인프런의 강의 목차를 가져올 주소
